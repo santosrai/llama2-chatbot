@@ -1,21 +1,21 @@
 # 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
 
-Description of the app ...
+This chatbot is created using the open-source Llama 2 LLM model from Meta.
+
 
 ## Demo App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
 
-## Section Heading
+### Prerequisite libraries
 
-This is filler text, please replace this with text for this section.
+```
+streamlit
+replicate
+```
 
-## Further Reading
+### Obtaining Your Personal Replicate API Token
 
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+In order to utilize this application, it's necessary to acquire your individual Replicate API token.
+
+Upon successfully registering for Replicate services, you can retrieve your API token directly from this webpage.
